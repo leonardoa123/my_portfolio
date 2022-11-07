@@ -74,3 +74,5 @@ end
 #my gems
 
 gem 'cssbundling-rails'
+
+gem "jsbundling-rails", "~> 1.0"
